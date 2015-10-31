@@ -6714,7 +6714,7 @@ MonoBehaviour:
   healthDisp: {fileID: 212750611}
   powerupCountdown: {fileID: 817953554}
   levelDisp: {fileID: 1460085703}
-  nextScene: cutscene_2
+  nextScene: stage_2
   lsa: {fileID: 1452463398}
   currentLevel: 1
   focus: {fileID: 100006, guid: 9ad605547dad41349b8abbe117afa092, type: 2}
